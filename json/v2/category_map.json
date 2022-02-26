@@ -1,0 +1,74 @@
+{
+   "MapCategory":[
+      {
+         "category_name":"Horror Map",
+         "category_image":"https://api.mcpedl.com/storage/submissions/76509/103/img20220119225137_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/tools/map/horror map.json"
+      },
+      {
+         "category_name":"FNaF Map",
+         "category_image":"https://blogger.googleusercontent.com/img/a/AVvXsEjAv0GQBceTnPxIq1qB1aPS4B7bG_Ll7QTdmTc1-6XVG5xQEbmHU2waSYBygBy2GfRXMfqOxzDzSVKT2DRX6PQ2j-Ek7CakXvNqCFF2V4TVxZGkBXX4YoICf5PVYtkTOEsshIasgJpJaUXKPgVWyowPey-40lcm4teScJJEbQr2CNvGJBZpm5gjKVxx",
+         "link":"https://allmcpe.ngrejekini.com/map/fnaf map.json"
+      },
+      {
+         "category_name":"Adventure Map",
+         "category_image":"https://api.mcpedl.com/storage/submissions/79082/100/png202112271907530000_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/map/adventure map.json"
+      },
+      {
+         "category_name":"Creation Map",
+         "category_image":"https://api.mcpedl.com/storage/submissions/78698/102/20220103120619_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/map/creation map.json"
+      },
+      {
+         "category_name":"CTM Map",
+         "category_image":"https://api.mcpedl.com/storage/submissions/79628/100/1miniature_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/map/ctm map.json"
+      },
+      {
+         "category_name":"Custom Terrain Map",
+         "category_image":"https://api.mcpedl.com/storage/submissions/79635/102/-20220110-184220_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/map/custom terrain map.json"
+      },
+      {
+         "category_name":"Minigame Map",
+         "category_image":"https://mcpedl.com/wp-content/uploads/2021/02/mob-battle_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/map/minigame map.json"
+      },
+      {
+         "category_name":"Modded Map",
+         "category_image":"https://api.mcpedl.com/storage/submissions/73747/110/foodsplus1520x245-1_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/map/modded map.json"
+      },
+      {
+         "category_name":"Parkour Map",
+         "category_image":"https://api.mcpedl.com/storage/submissions/78447/100/minecraft-12172021-91652-pm_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/map/parkour map.json"
+      },
+      {
+         "category_name":"Puzzle Map",
+         "category_image":"https://api.mcpedl.com/storage/submissions/69259/100/untitled31720210817170802_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/map/puzzle map.json"
+      },
+      {
+         "category_name":"PvP Map",
+         "category_image":"https://api.mcpedl.com/storage/submissions/9897/128/160_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/map/pvp map.json"
+      },
+      {
+         "category_name":"RedStone Map",
+         "category_image":"https://api.mcpedl.com/storage/submissions/55382/124/mcpedlimage_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/map/redstone map.json"
+      },
+      {
+         "category_name":"Roller Coaster Map",
+         "category_image":"https://api.mcpedl.com/storage/submissions/75331/100/image_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/map/roller coaster map.json"
+      },
+      {
+         "category_name":"Survival Map",
+         "category_image":"https://api.mcpedl.com/storage/submissions/65753/107/forpage-nuevo_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/map/survival map.json"
+      }
+   ]
+}

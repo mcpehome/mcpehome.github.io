@@ -1,0 +1,38 @@
+{
+"Ads": [
+    {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-4761734353153203/4656741404",
+      "main_ads_intertitial":"ca-app-pub-4761734353153203/7364286485",
+      "main_ads_reward":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_reward":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "lawyer",
+      "high_paying_keyword_2": "crypto",
+      "high_paying_keyword_3": "hosting",
+      "high_paying_keyword_4": "wood project",
+      "high_paying_keyword_5": "mobile legend",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=id.skinmcpe.master3d"
+    }
+  ],
+  "More":
+  [
+    {
+    "title":"Master Guide Game",
+    "image":"https://play-lh.googleusercontent.com/aYaafYpmEDY7tGcOmiocVb4M8TCC0ElXHMpzq0ZjVOow1Cdlv7ffQeE4OuxALfpMoyo=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=org.guideapp.master"
+    },
+     {
+    "title":"Minecraft MCPE Skins, Wall & Maps",
+    "image":"https://lh3.googleusercontent.com/3EMbVk902tg30rmTWipCX3FO71uzQj5OSXGoT_AEeZ9U7KRqRwxardSyTd2lnm4Pmw",
+    "link":"https://play.google.com/store/apps/details?id=com.skin.mcpesurep"
+    }
+  ]
+}
+    

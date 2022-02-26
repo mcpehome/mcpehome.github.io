@@ -1,0 +1,24 @@
+{
+   "AddonCategory":[
+      {
+         "category_name":"Addon 1",
+         "category_image":"https://api.mcpedl.com/storage/submissions/79394/100/picsart01011222541_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/addon/addon%201.json"
+      },
+      {
+         "category_name":"Addon 2",
+         "category_image":"https://api.mcpedl.com/storage/submissions/66979/109/grow-your-own-drake-906_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/addon/addon%202.json"
+      },
+      {
+         "category_name":"Addon 3",
+         "category_image":"file:///android_asset/image/star.jpeg",
+         "link":"https://allmcpe.ngrejekini.com/addon/addon%203.json"
+      },
+      {
+         "category_name":"Addon 4",
+         "category_image":"https://api.mcpedl.com/storage/submissions/30267/113/snappa--google-chrome-26122021-161051_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/addon/addon%204.json"
+      }
+   ]
+}

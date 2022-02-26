@@ -1,0 +1,29 @@
+{
+    "Category": [
+        {
+            "category_name": "Poppy",
+            "category_image": "https:\/\/lh3.googleusercontent.com\/7JR0e5RF3ChaOvUx_zLfzNhLtQG3nxc1EK20-4L-Okp0Yso1jusxC-oCRoT0eUwKTMC7t5diVx4FQEqVV7EBf0GI9I0aSdzB7QM",
+            "link": "https://mcpehome.com/json/poppyv2/skins/skins-poppy.json"
+        },
+        {
+            "category_name": "Playtime",
+            "category_image": "https:\/\/lh3.googleusercontent.com\/7JR0e5RF3ChaOvUx_zLfzNhLtQG3nxc1EK20-4L-Okp0Yso1jusxC-oCRoT0eUwKTMC7t5diVx4FQEqVV7EBf0GI9I0aSdzB7QM",
+            "link": "https://mcpehome.com/json/poppyv2/skins/skins-playtime.json"
+        },
+        {
+            "category_name": "Poppy Skin",
+            "category_image": "https:\/\/lh3.googleusercontent.com\/9pv5jnzjsyTuIN6toUCyNgpKnPuG0QdzU-2t_54I8_dN6O5C3-Am5JJ8KHUvLwB7jO2bVgD_uYPb-V-AO2iZ9TQ8AJWnTpV0VpU",
+            "link": "https://mcpehome.com/json/poppyv2/skins/skins-poppy-skin.json"
+        },
+        {
+            "category_name": "Poppy Child",
+            "category_image": "https:\/\/lh3.googleusercontent.com\/9pv5jnzjsyTuIN6toUCyNgpKnPuG0QdzU-2t_54I8_dN6O5C3-Am5JJ8KHUvLwB7jO2bVgD_uYPb-V-AO2iZ9TQ8AJWnTpV0VpU",
+            "link": "https://mcpehome.com/json/poppyv2/skins/skins-poppychild.json"
+        },
+        {
+            "category_name": "Poppysassyness",
+            "category_image": "https:\/\/lh3.googleusercontent.com\/gUpV84vM0LId2cIxpbDLQ884hOXqCRO9B0WG00XNN0rnbFGOXAqR11tN627Zhr8j-_5ZiCwtD7SvrzmvwJ7pCA",
+            "link": "https://mcpehome.com/json/poppyv2/skins/skins-poppysassyness.json"
+        }
+    ]
+}

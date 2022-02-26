@@ -1,0 +1,33 @@
+{
+"Ads": [
+    {
+     "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-4761734353153203/6677865120",
+      "main_ads_intertitial":"ca-app-pub-4761734353153203/2355476732",
+      "main_ads_reward":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_reward":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "lawyer",
+      "high_paying_keyword_2": "finance",
+      "high_paying_keyword_3": "online course",
+      "high_paying_keyword_4": "hosting",
+      "high_paying_keyword_5": "digital marketing",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=id.skinmcpe.master3dp"
+    }
+  ],
+  "More":
+  [
+      {
+          "title":"Poppy Skin For MCPEs",
+    "image":"https://play-lh.googleusercontent.com/C9T0SzPRERXcYTtj09PKfuBtcLA-5e8fBdOaAom2hMOg11PyQ9PhvgcXXetz010jPMQ=s180-rw",
+    "link":"https://play.google.com/store/apps/details?id=id.skinmcpe.poppy3d"
+      }
+  ]
+}
+    

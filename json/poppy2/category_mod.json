@@ -1,0 +1,24 @@
+{
+   "ModCategory":[
+      {
+         "category_name":"Add ons",
+         "category_image":"https://mcpedl.com/wp-content/uploads/2019/12/pick-block-mod_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/mod/add ons.json"
+      },
+      {
+         "category_name":"Scripts",
+         "category_image":"https://mcpedl.com/wp-content/uploads/2019/07/meethyas-worldedit_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/mod/scripts.json"
+      },
+      {
+         "category_name":"ModPE",
+         "category_image":"http://mcpedl.com/wp-content/uploads/2019/02/a6cd2bb96a9af194ec8d108a7b0dd515-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/mod/modpe.json"
+      },
+      {
+         "category_name":"BlockLauncher Addons",
+         "category_image":"https://mcpedl.com/wp-content/uploads/2019/07/soul-land_1-520x245.png",
+         "link":"https://allmcpe.ngrejekini.com/mod/blocklauncher.json"
+      }
+   ]
+}
