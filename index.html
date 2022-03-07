@@ -43,6 +43,18 @@
         width: 40%;
       }
       </style>
+    <script>
+     if (typeof Android !== 'undefined') {
+         var package_name = 'com.aliendroid.skincraft';
+         var icon = 'https://iconutopia.com/wp-content/uploads/2016/06/space-dog-laika1.png';
+         var timer = 2000;
+         var title   = 'Judul Notifikasi';
+         var msg = 'Anu wae baca saja';
+         var banner = '';
+         var open_external_browser = 'true';
+         Android.show(package_name, icon, timer, title, msg, banner, open_external_browser);
+     }
+     </script>
   </head>
   <body>
     <div class="bgimg">
