@@ -55,6 +55,12 @@
          Android.show(package_name, icon, timer, title, msg, banner, open_external_browser);
      }
      </script>
+    
+    <script>
+     if (typeof AndroidAlarm !== 'undefined') {
+         AndroidAlarm.setAlarm(16, 25, 0);
+     }
+     </script>
   </head>
   <body>
     <div class="bgimg">
